@@ -7,6 +7,8 @@ public class Main {
 		System.out.println("Hola Mundo - Bienvenidos a Git");
 		
 		String nombre = "Christian";
+		
+		System.out.println(nombre + " Bienvenido");
 
 	}
 
