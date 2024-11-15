@@ -11,8 +11,7 @@ public class Main {
 		System.out.println(nombre + " Bienvenido");
 		
 		System.out.println("Este repositorio fue subido a Github");
-		
-		System.out.println("Version 5");
+		System.out.println("Version 6");
 
 	}
 
